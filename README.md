@@ -1,4 +1,4 @@
-# organisation
+# Organisation
 Repository containing organisational documents
 
 ## Tools
