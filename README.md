@@ -20,5 +20,5 @@ Deze projectopdracht bestaat erin een Androidapplicatie te ontwikkelen om Vlamin
 * [Evaluation spreadsheet](https://docs.google.com/spreadsheets/d/1QOCMn_ClF49qyRhezB7eQVA5rtTWjVacdVmgWyLAqO0/pubhtml?gid=287100172&single=true)
 
 ## Colors
-* Red #ed1c24
+* Red `#ed1c24`
 
