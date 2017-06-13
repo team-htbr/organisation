@@ -5,7 +5,6 @@ Repository containing organisational documents
 [Video](https://www.youtube.com/watch?v=hW1RpA_llEE&feature=youtu.be)
 
 ## Korte beschrijving
-Translate the description into English using Google Translate? Translate
 Deze projectopdracht bestaat erin een Androidapplicatie te ontwikkelen om Vlamingen te motiveren bloed, plasma of bloedplaatjes te doneren. De kernbedoeling van de applicatie is de donor eraan te helpen herinneren dat hij/zij bloed kan geven. Onmiddellijk daarbij aansluitend wordt de mogelijkheid geboden om een collecte te zoeken en rechtstreeks een afspraak te boeken. Alle andere informatie daaromheen dient om de app voor de donor een persoonlijk tintje te geven. Deze informatie kan bestaan uit donatiehistoriek, medische resultaten, beloningen,...
 
 ## Technische documentatie
