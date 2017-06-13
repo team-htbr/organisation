@@ -9,6 +9,10 @@ Deze projectopdracht bestaat erin een Androidapplicatie te ontwikkelen om Vlamin
 
 ## Technische documentatie
 
+### Androidapplicatie
+
+### Console
+
 ## Tools
 * [Slack](https://teamhtbr.slack.com) 
 * [Trello](https://trello.com/b/agH3mQkX/bloeddonatie) 
